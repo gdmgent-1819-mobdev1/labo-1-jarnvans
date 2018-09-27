@@ -1,0 +1,16 @@
+.on {
+    background: yellow;  
+}
+
+.off {
+    background: black;
+}
+
+.block { 
+    width: 20px;
+    height: 20px;
+    display: inline-block;
+    margin-left: 5px;
+    margin-bottom: 1px;
+}
+
